@@ -30,11 +30,10 @@ def transcribe(path, start=None, end=None):
     from faster_whisper import WhisperModel
     if _model is None:
         _model = WhisperModel(os.environ.get("WHISPER_MODEL", "small"), device="cpu", compute_type="int8")
-    audio = path
-    if start is not None:  # transcribe only a window of a long VOD
-        audio = path + ".win.wav"
-        subprocess.run(["ffmpeg", "-v", "error", "-y", "-ss", str(start), "-to", str(end), "-i", path,
-                        "-ac", "1", "-ar", "16000", audio], check=True)
+    import numpy as np
+    cmd = ["ffmpeg", "-v", "error"] + (["-ss", str(start), "-to", str(end)] if start is not None else []) + \
+          ["-i", path, "-ac", "1", "-ar", "16000", "-f", "f32le", "-"]
+    audio = np.frombuffer(subprocess.run(cmd, capture_output=True, check=True).stdout, np.float32)
     segs, _ = _model.transcribe(audio, word_timestamps=True, vad_filter=True)
     off = start or 0
     words, lines = [], []
