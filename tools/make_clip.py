@@ -52,19 +52,20 @@ def make_overlay(spec, video_top, video_h, path):
     img = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     d = ImageDraw.Draw(img)
 
-    hook = spec.get("hook", "").strip()
+    hook = "".join(ch for ch in spec.get("hook", "") if ord(ch) < 0x2000).strip()  # font has no emoji
     if hook:
+        room = video_top - 80 - 120  # space between top safe area and the credit line
         size = 72
         while True:
             f = font(HOOK_FONT, size, 800)
             lines = wrap(d, hook, f, W - 200)
-            if len(lines) <= 3 or size <= 48:
+            line_h = int(size * 1.22)
+            pad_x, pad_y = 34, 16
+            block_h = len(lines) * (line_h + 2 * pad_y - 10)
+            if (len(lines) <= 3 and block_h <= room) or size <= 40:
                 break
             size -= 4
-        line_h = int(size * 1.22)
-        pad_x, pad_y = 34, 16
-        block_h = len(lines) * (line_h + 2 * pad_y)
-        y = max(120, video_top - 110 - block_h)
+        y = max(120, video_top - 80 - block_h)
         for ln in lines:
             tw = d.textlength(ln, font=f)
             x0 = (W - tw) / 2 - pad_x
@@ -145,10 +146,10 @@ def main():
     layout = spec.get("layout", "fit")
 
     if layout == "zoom":
-        vid_w, vid_h = W, int(W * 5 / 4)          # 1080x1350
+        vid_w, vid_h = W, 1200                    # 9:10 crop
     else:
         vid_w, vid_h = W, int(W * 9 / 16) // 2 * 2  # 1080x608
-    video_top = (H - vid_h) // 2 + (60 if layout == "fit" else 120)
+    video_top = (H - vid_h) // 2 + (60 if layout == "fit" else 160)
 
     tmp = tempfile.mkdtemp()
     overlay = os.path.join(tmp, "overlay.png")
