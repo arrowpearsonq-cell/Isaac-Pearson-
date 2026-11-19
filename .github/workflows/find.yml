@@ -6,6 +6,8 @@ on:
       range: {description: "24hr, 7d, 30d or all", default: "7d"}
       per_streamer: {description: "Top clips per streamer", default: "5"}
       match: {description: "Only clips whose title contains (optional, e.g. gta)", default: ""}
+permissions:
+  contents: write
 jobs:
   find:
     runs-on: ubuntu-latest
@@ -24,3 +26,12 @@ jobs:
           MATCH: ${{ inputs.match }}
       - uses: actions/upload-artifact@v4
         with: {name: candidates, path: out/, retention-days: 7}
+      - name: Save results to the results branch
+        env: {GH_TOKEN: "${{ github.token }}"}
+        run: |
+          U="https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}"
+          cd /tmp
+          git clone -q --depth 1 -b results "$U" r || (mkdir r && cd r && git init -q -b results && git remote add origin "$U")
+          cd r && git config user.name clip-bot && git config user.email clip-bot@users.noreply.github.com
+          mkdir -p "runs/${{ github.run_id }}" && cp -r "$GITHUB_WORKSPACE/out/." "runs/${{ github.run_id }}/"
+          git add runs && git commit -qm "run ${{ github.run_id }}" && git push -q origin results
