@@ -12,3 +12,6 @@
 - 2026-11-21 14:00 ET | lacy | Lacy $12.5K GTA VI marathon pool | LACY did not expect a tiger in GTA 6 | tw_1560253933
 - 2026-11-21 16:00 ET | kaicenat | Kai Cenat $10K GTA 6 pool | Kai Cenat's reaction to Lucia's first getaway | tw_3422080430
 - 2026-11-21 20:00 ET | asianjeff | AsianJeff $1/1K | This GTA 6 NPC is not scared of AsianJeff | tw_575131071
+- 2026-11-20 22:00 ET | kreekcraft | KreekCraft GTA 6 $1/1K | KreekCraft stole a GTA 6 helicopter first try | tw_928137290
+- 2026-11-21 08:00 ET | clix | Clix $5K GTA VI marathon pool | Clix tried flying a plane in GTA 6 | tw_762616500
+- 2026-11-21 22:00 ET | yourragegaming | YourRAGE $5K GTA 6 pool | YourRAGE accidentally headlocked a GTA 6 NPC | tw_3786463521
