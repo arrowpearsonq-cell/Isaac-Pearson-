@@ -7,3 +7,8 @@
 - 2026-11-20 18:00 ET | lacy | Lacy $12.5K GTA VI marathon pool | LACY the second GTA 6 finally unlocked | tw_2732202548
 - 2026-11-21 10:00 ET | kreekcraft | KreekCraft GTA 6 $1/1K | A dog on a jet ski saved KreekCraft in GTA 6 | tw_4261548658
 - 2026-11-21 12:00 ET | clix | Clix $5K GTA VI marathon pool | Clix's GTA 6 girlfriend just saved his life | tw_1425416220
+- 2026-11-20 14:00 ET | asianjeff | AsianJeff $1/1K | AsianJeff waited 12 years and can't find L3 | tw_3338977716
+- 2026-11-20 20:00 ET | yourragegaming | YourRAGE $5K GTA 6 pool | YourRAGE tried to take a photo of a gator | tw_3076793258
+- 2026-11-21 14:00 ET | lacy | Lacy $12.5K GTA VI marathon pool | LACY did not expect a tiger in GTA 6 | tw_1560253933
+- 2026-11-21 16:00 ET | kaicenat | Kai Cenat $10K GTA 6 pool | Kai Cenat's reaction to Lucia's first getaway | tw_3422080430
+- 2026-11-21 20:00 ET | asianjeff | AsianJeff $1/1K | This GTA 6 NPC is not scared of AsianJeff | tw_575131071
