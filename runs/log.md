@@ -15,7 +15,7 @@
 - 2026-11-20 22:00 ET | kreekcraft | KreekCraft GTA 6 $1/1K | KreekCraft stole a GTA 6 helicopter first try | tw_928137290
 - 2026-11-21 08:00 ET | clix | Clix $5K GTA VI marathon pool | Clix tried flying a plane in GTA 6 | tw_762616500
 - 2026-11-21 22:00 ET | yourragegaming | YourRAGE $5K GTA 6 pool | YourRAGE accidentally headlocked a GTA 6 NPC | tw_3786463521
-- 2026-11-22 08:00 ET | clix | Clix $5K GTA VI marathon pool | Clix's GTA 6 heist went sideways fast | tw_2928511745
-- 2026-11-22 10:00 ET | lacy | Lacy $12.5K GTA VI marathon pool | LACY watched GTA 6 cops corner a furry | tw_855510333
+- 2026-11-22 16:00 ET | clix | Clix $5K GTA VI marathon pool | Clix's GTA 6 heist went sideways fast | tw_2928511745
+- 2026-11-22 18:00 ET | lacy | Lacy $12.5K GTA VI marathon pool | LACY watched GTA 6 cops corner a furry | tw_855510333
 - 2026-11-22 12:00 ET | kaicenat | Kai Cenat $10K GTA 6 pool | Somebody tried to steal Kai Cenat's GTA 6 car | tw_964755978
 - 2026-11-22 14:00 ET | kreekcraft | KreekCraft GTA 6 $1/1K | KreekCraft walked right into a GTA 6 gator | tw_105738949
