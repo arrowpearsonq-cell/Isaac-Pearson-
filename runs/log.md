@@ -21,3 +21,7 @@
 - 2026-11-22 14:00 ET | kreekcraft | KreekCraft GTA 6 $1/1K | KreekCraft walked right into a GTA 6 gator | tw_105738949
 - 2026-11-23 12:00 ET | clix | Clix $5K GTA VI marathon pool | Clix got set up in GTA 6 | tw_1698893120
 - 2026-11-23 14:00 ET | lacy | Lacy $12.5K GTA VI marathon pool | LACY stole the fastest car in GTA 6 | tw_2790256185
+- 2026-11-23 16:00 ET | yourragegaming | YourRAGE $5K GTA 6 pool | YourRAGE's GTA 6 stunt jump went wrong | tw_2252714809
+- 2026-11-23 18:00 ET | xqc | None | xQc's GTA 6 cop chase got cinematic | tw_916709580
+- 2026-11-23 20:00 ET | clix | Clix $5K GTA VI marathon pool | Clix got thrown in GTA 6 jail | tw_2274363492
+- 2026-11-23 22:00 ET | kaicenat | Kai Cenat $10K GTA 6 pool | Kai Cenat's first GTA 6 basketball shot | tw_1956086793
