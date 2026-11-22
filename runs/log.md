@@ -25,3 +25,5 @@
 - 2026-11-23 18:00 ET | xqc | None | xQc's GTA 6 cop chase got cinematic | tw_916709580
 - 2026-11-23 20:00 ET | clix | Clix $5K GTA VI marathon pool | Clix got thrown in GTA 6 jail | tw_2274363492
 - 2026-11-23 22:00 ET | kaicenat | Kai Cenat $10K GTA 6 pool | Kai Cenat's first GTA 6 basketball shot | tw_1956086793
+- 2026-11-22 20:00 ET | ishowspeed | None | IShowSpeed found an alien in GTA 6 | tw_3141724020
+- 2026-11-22 22:00 ET | clix | Clix $5K GTA VI marathon pool | Clix just got locked up in GTA 6 | tw_1749979550
