@@ -19,3 +19,5 @@
 - 2026-11-22 18:00 ET | lacy | Lacy $12.5K GTA VI marathon pool | LACY watched GTA 6 cops corner a furry | tw_855510333
 - 2026-11-22 12:00 ET | kaicenat | Kai Cenat $10K GTA 6 pool | Somebody tried to steal Kai Cenat's GTA 6 car | tw_964755978
 - 2026-11-22 14:00 ET | kreekcraft | KreekCraft GTA 6 $1/1K | KreekCraft walked right into a GTA 6 gator | tw_105738949
+- 2026-11-23 12:00 ET | clix | Clix $5K GTA VI marathon pool | Clix got set up in GTA 6 | tw_1698893120
+- 2026-11-23 14:00 ET | lacy | Lacy $12.5K GTA VI marathon pool | LACY stole the fastest car in GTA 6 | tw_2790256185
