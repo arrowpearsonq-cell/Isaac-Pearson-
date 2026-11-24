@@ -27,3 +27,9 @@
 - 2026-11-23 22:00 ET | kaicenat | Kai Cenat $10K GTA 6 pool | Kai Cenat's first GTA 6 basketball shot | tw_1956086793
 - 2026-11-22 20:00 ET | ishowspeed | None | IShowSpeed found an alien in GTA 6 | tw_3141724020
 - 2026-11-22 22:00 ET | clix | Clix $5K GTA VI marathon pool | Clix just got locked up in GTA 6 | tw_1749979550
+- 2026-11-24 16:00 ET | kaicenat | Kai Cenat $10K GTA 6 pool | Kai Cenat begged NPCs not to call police | tw_4123979898
+- 2026-11-24 18:00 ET | clix | Clix $5K GTA VI marathon pool | Clix took over a GTA 6 train | tw_2364778508
+- 2026-11-25 12:00 ET | lacy | Lacy $12.5K GTA VI marathon pool | A GTA 6 beggar tested LACY | tw_1973319648
+- 2026-11-25 14:00 ET | asianjeff | AsianJeff $1/1K | AsianJeff just became a GTA 6 millionaire | tw_1749572683
+- 2026-11-25 16:00 ET | yourragegaming | YourRAGE $5K GTA 6 pool | YourRAGE crashed his bike in GTA 6 | tw_2844283534
+- 2026-11-25 18:00 ET | clix | Clix $5K GTA VI marathon pool | Clix would not let this NPC go | tw_3037380536
