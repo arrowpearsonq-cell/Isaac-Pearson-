@@ -33,3 +33,5 @@
 - 2026-11-25 14:00 ET | asianjeff | AsianJeff $1/1K | AsianJeff just became a GTA 6 millionaire | tw_1749572683
 - 2026-11-25 16:00 ET | yourragegaming | YourRAGE $5K GTA 6 pool | YourRAGE crashed his bike in GTA 6 | tw_2844283534
 - 2026-11-25 18:00 ET | clix | Clix $5K GTA VI marathon pool | Clix would not let this NPC go | tw_3037380536
+- 2026-11-24 20:00 ET | caseoh_ | None | What happened to CaseOh's GTA 6 car?? | tw_2081183835
+- 2026-11-24 22:00 ET | asianjeff | AsianJeff $1/1K | AsianJeff couldn't drop his partner mid-chase | tw_3401314925
