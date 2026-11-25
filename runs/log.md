@@ -38,3 +38,5 @@
 - 2026-11-26 12:00 ET | ishowspeed | None | IShowSpeed's GTA 6 just crashed mid race | tw_3103107742
 - 2026-11-26 16:00 ET | asianjeff | AsianJeff $1/1K | Why did Charles run from AsianJeff?? | tw_243018346
 - 2026-11-26 18:00 ET | kaicenat | Kai Cenat $10K GTA 6 pool | How did Kai Cenat escape these cops?? | tw_395630095
+- 2026-11-25 20:00 ET | caseoh_ | None | Why is CaseOh racing a cement truck?? | tw_2950653952
+- 2026-11-25 22:00 ET | ishowspeed | None | IShowSpeed took her scooter, then this happened | tw_1931645053
