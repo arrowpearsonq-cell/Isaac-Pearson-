@@ -35,3 +35,6 @@
 - 2026-11-25 18:00 ET | clix | Clix $5K GTA VI marathon pool | Clix would not let this NPC go | tw_3037380536
 - 2026-11-24 20:00 ET | caseoh_ | None | What happened to CaseOh's GTA 6 car?? | tw_2081183835
 - 2026-11-24 22:00 ET | asianjeff | AsianJeff $1/1K | AsianJeff couldn't drop his partner mid-chase | tw_3401314925
+- 2026-11-26 12:00 ET | ishowspeed | None | IShowSpeed's GTA 6 just crashed mid race | tw_3103107742
+- 2026-11-26 16:00 ET | asianjeff | AsianJeff $1/1K | Why did Charles run from AsianJeff?? | tw_243018346
+- 2026-11-26 18:00 ET | kaicenat | Kai Cenat $10K GTA 6 pool | How did Kai Cenat escape these cops?? | tw_395630095
