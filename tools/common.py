@@ -34,12 +34,21 @@ def transcribe(path, start=None, end=None):
     cmd = ["ffmpeg", "-v", "error"] + (["-ss", str(start), "-to", str(end)] if start is not None else []) + \
           ["-i", path, "-ac", "1", "-ar", "16000", "-f", "f32le", "-"]
     audio = np.frombuffer(subprocess.run(cmd, capture_output=True, check=True).stdout, np.float32)
-    segs, _ = _model.transcribe(audio, word_timestamps=True, vad_filter=True)
     off = start or 0
     words, lines = [], []
-    for s in segs:
-        lines.append(f"[{s.start + off:.1f}s] {s.text.strip()}")
-        for w in s.words or []:
-            words.append([round(w.start + off, 2), round(w.end + off, 2), w.word.strip()])
+    try:
+        segs, _ = _model.transcribe(audio, word_timestamps=True, vad_filter=True)
+        for s in segs:
+            lines.append(f"[{s.start + off:.1f}s] {s.text.strip()}")
+            for w in s.words or []:
+                words.append([round(w.start + off, 2), round(w.end + off, 2), w.word.strip()])
+    except Exception as e:  # faster-whisper word alignment can crash on odd audio; don't kill the whole run
+        print("transcribe failed, skipping words:", path, e)
+        words, lines = [], []
+        try:
+            segs, _ = _model.transcribe(audio, word_timestamps=False, vad_filter=True)
+            lines = [f"[{s.start + off:.1f}s] {s.text.strip()}" for s in segs]
+        except Exception as e2:
+            print("plain transcribe failed too:", e2)
     json.dump(words, open(os.path.splitext(path)[0] + ".words.json", "w"))
     return words, "\n".join(lines)
