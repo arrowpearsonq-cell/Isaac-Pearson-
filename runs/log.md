@@ -41,3 +41,5 @@
 - 2026-11-25 20:00 ET | caseoh_ | None | Why is CaseOh racing a cement truck?? | tw_2950653952
 - 2026-11-25 22:00 ET | ishowspeed | None | IShowSpeed took her scooter, then this happened | tw_1931645053
 - 2026-11-26 14:00 ET | ishowspeed | None | Wait for IShowSpeed's real GTA 6 backflip | tw_3589657523
+- 2026-11-26 20:00 ET | ishowspeed | ClipUp GTA VI Logo | IShowSpeed vs a GTA 6 alligator (Part 1) | tw_1965117757
+- 2026-11-26 22:00 ET | ishowspeed | ClipUp GTA VI Logo | Did IShowSpeed survive the alligator? (Part 2) | tw_1965117757
