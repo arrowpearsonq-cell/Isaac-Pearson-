@@ -40,3 +40,4 @@
 - 2026-11-26 18:00 ET | kaicenat | Kai Cenat $10K GTA 6 pool | How did Kai Cenat escape these cops?? | tw_395630095
 - 2026-11-25 20:00 ET | caseoh_ | None | Why is CaseOh racing a cement truck?? | tw_2950653952
 - 2026-11-25 22:00 ET | ishowspeed | None | IShowSpeed took her scooter, then this happened | tw_1931645053
+- 2026-11-26 14:00 ET | ishowspeed | None | Wait for IShowSpeed's real GTA 6 backflip | tw_3589657523
