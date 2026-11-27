@@ -47,3 +47,5 @@
 - 2026-11-27 14:00 ET | xqc | ClipUp GTA VI Logo | xQc flipped it and says it's fine | tw_1825605177
 - 2026-11-27 16:00 ET | ishowspeed | ClipUp GTA VI Logo | IShowSpeed's GTA 6 house is on fire | tw_2136698566
 - 2026-11-27 18:00 ET | kaicenat | Kai Cenat $10K GTA 6 pool | Kai Cenat's witness tried calling the cops | tw_3619094633
+- 2026-11-27 20:00 ET | kaicenat | ClipUp GTA VI Logo | Someone was already robbing Kai Cenat's store | tw_2950475036
+- 2026-11-27 22:00 ET | ishowspeed | ClipUp GTA VI Logo | Did IShowSpeed's Lucia survive this jump?? | tw_268008883
