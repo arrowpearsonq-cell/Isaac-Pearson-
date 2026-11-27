@@ -5,3 +5,4 @@
 - 2026-11-24 | #gta6 #gtavi #gta6gameplay #vicecity (+ #fyp always)
 - 2026-11-25 | #gta6 #gtavi #gta6gameplay #vicecity (+ #fyp always)
 - 2026-11-26 | #gta6 #gtavi #gta6gameplay #vicecity (+ #fyp always)
+- 2026-11-27 | #gta6 #gtavi #gta6gameplay #vicecity (+ #fyp always)
