@@ -49,3 +49,7 @@
 - 2026-11-27 18:00 ET | kaicenat | Kai Cenat $10K GTA 6 pool | Kai Cenat's witness tried calling the cops | tw_3619094633
 - 2026-11-27 20:00 ET | kaicenat | ClipUp GTA VI Logo | Someone was already robbing Kai Cenat's store | tw_2950475036
 - 2026-11-27 22:00 ET | ishowspeed | ClipUp GTA VI Logo | Did IShowSpeed's Lucia survive this jump?? | tw_268008883
+- 2026-11-28 12:00 ET | caseoh_ | ClipUp GTA VI Logo | Why CaseOh's kids want his keys?? | tw_1225545415
+- 2026-11-28 14:00 ET | kaicenat | Kai Cenat $10K GTA 6 pool | Kai Cenat let chat plan his heist | tw_2228902002
+- 2026-11-28 16:00 ET | ishowspeed | ClipUp GTA VI Logo | IShowSpeed just reached GTA 6's ending | tw_1339858261
+- 2026-11-28 18:00 ET | ishowspeed | ClipUp GTA VI Logo | What just attacked IShowSpeed's diver?? | tw_3147150812
